@@ -1,0 +1,29 @@
+{
+ "_note": "样例数据结构，数值全部为占位。真实序列由 ta_backfill.py 自行回算生成，不要提交到仓库。",
+ "2026-01-01": {
+  "PROD_A_AND": {
+   "iap": 0.0,
+   "ad": 0.0,
+   "revenue": 0.0,
+   "dau": 0,
+   "payers": 0,
+   "pay_rate": 0.0,
+   "arppu": 0.0,
+   "spins": 0,
+   "spinners": 0,
+   "impressions": 0
+  },
+  "PROD_A_IOS": {
+   "iap": 0.0,
+   "ad": 0.0,
+   "revenue": 0.0,
+   "dau": 0,
+   "payers": 0,
+   "pay_rate": 0.0,
+   "arppu": 0.0,
+   "spins": 0,
+   "spinners": 0,
+   "impressions": 0
+  }
+ }
+}

@@ -1,0 +1,26 @@
+# 运行时数据与产物一律不入库
+*_series.json
+!skills/daily-brief-dingtalk/scripts/ta_series.json
+*.log
+receipts/
+imports/
+
+# 本地凭据
+.env
+.env.*
+_dingtalk.json
+!skills/daily-brief-dingtalk/scripts/_dingtalk.json
+credentials.json
+*.p8
+
+# 备份与临时副本
+*.bak
+*.old
+*.orig
+*.tmp
+__pycache__/
+*.pyc
+
+# 系统文件
+.DS_Store
+Thumbs.db

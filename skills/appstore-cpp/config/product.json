@@ -1,0 +1,15 @@
+{
+  "_note": "跑之前要填三个空：bundle_id 或 app_id、promotional_text、video_dir。video_dir 留空时用命令行 --dir 指定素材目录。",
+  "product": "SLOT-01",
+  "bundle_id": "",
+  "app_id": "",
+  "platform": "IOS",
+  "locale": "en-US",
+  "promotional_text": "",
+  "target_display": "iphone_6_9",
+  "preview_type": "IPHONE_69",
+  "preview_frame_time_code": "00:00:05",
+  "cpp_name_template": "{stem}",
+  "template_version": null,
+  "video_dir": ""
+}

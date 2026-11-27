@@ -1,0 +1,6 @@
+{
+ "webhook": "https://oapi.dingtalk.com/robot/send?access_token=<YOUR_TOKEN>",
+ "secret": "",
+ "keyword": "",
+ "_note": "五产品日报群机器人。若机器人启用了「加签」，把 secret 填到这里；若用「自定义关键词」，把关键词填到 keyword。"
+}
